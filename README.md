@@ -23,7 +23,8 @@ This project focuses on reconstructing ultrasound images from low to high qualit
 - Adjust parameters in the notebook as per requirements.
 
 ## Results
-Sample results of low-to-high-quality reconstruction are available in `images/` for visual comparison.
+Sample results of low-to-high-quality reconstruction can be reviewed using the [Breast Ultrasound Images Dataset on Kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset).
+
 
 ## License
 This project is licensed under the MIT License.
