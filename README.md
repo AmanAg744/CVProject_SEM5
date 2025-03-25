@@ -1,4 +1,4 @@
-# CVProject_SEM5: Ultrasound Image Reconstruction
+# Ultrasound Image Reconstruction: A comparative study
 
 ## Overview
 This project focuses on reconstructing ultrasound images from low to high quality. It aims to enhance image clarity, improving the accuracy and utility of medical ultrasound scans. Leveraging advanced computer vision and machine learning techniques, the project enhances resolution and reduces noise in ultrasound images, facilitating more accurate diagnoses.
