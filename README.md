@@ -1,4 +1,4 @@
-# Ultrasound Image Reconstruction: A comparative study
+# Sonoclarity - Ultrasound Image Reconstruction: A comparative study
 
 ## 🔬 Project Overview
 Enhance the clarity and diagnostic value of medical ultrasound scans through advanced image reconstruction techniques. This project leverages cutting-edge computer vision and machine learning algorithms to transform low-quality ultrasound images into high-resolution, noise-reduced versions, potentially improving medical diagnoses and patient outcomes.
